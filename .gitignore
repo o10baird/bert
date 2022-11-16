@@ -118,3 +118,6 @@ dmypy.json
 # models
 *.zip
 all_bert_models/
+
+# data
+data/
